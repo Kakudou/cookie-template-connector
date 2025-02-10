@@ -6,8 +6,6 @@ from unittest.mock import patch
 from uuid import uuid4
 
 from {{cookiecutter.project_name_snakecase}}.src.application.connector import Connector
-from {{cookiecutter.project_name_snakecase}}.src.core.usecases.fetch_sariel_api import FetchSarielAPI
-from {{cookiecutter.project_name_snakecase}}.src.core.usecases.process_sariel_data import ProcessSarielData
 
 
 def dev_env() -> dict[str, str]:
