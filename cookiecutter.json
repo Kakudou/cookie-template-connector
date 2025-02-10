@@ -1,0 +1,5 @@
+{
+  "project_name": "TemplateConnector",
+  "project_name_snakecase": "template_connector",
+  "project_description": "A template connector for OpenCTI"
+}
